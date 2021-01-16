@@ -1,0 +1,15 @@
+{
+    "name": "ebcms/database",
+    "description": "ebcms database",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "ebcms/framework": "1.*",
+        "catfan/medoo": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ebcms\\Database\\": "src/library/"
+        }
+    }
+}
