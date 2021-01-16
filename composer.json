@@ -2,7 +2,7 @@
     "name": "ebcms/database",
     "description": "ebcms database",
     "type": "library",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "require": {
         "ebcms/framework": "1.*",
         "catfan/medoo": "^1.7"
